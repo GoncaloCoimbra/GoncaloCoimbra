@@ -1,6 +1,6 @@
 # Olá, sou o Gonçalo Coimbra 👋
 
-### Profissional júnior de multimídia com foco em design, 3D, web e audiovisual
+### Profissional júnior de Full-Stack Developer | React • TypeScript • Node.js • Building scalable systems
 
 Sou um profissional multidisciplinar apaixonado por criar experiências visuais e digitais impactantes. Com competências que vão desde desenvolvimento web e mobile até modelação 3D e design gráfico, procuro sempre explorar novas tecnologias e expandir as minhas capacidades criativas.
 
